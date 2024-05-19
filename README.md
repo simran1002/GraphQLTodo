@@ -15,7 +15,7 @@ GraphToDo is a modern todo application built using GraphQL technology. It offers
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/graph-todo.git
+   git clone https://github.com/simran1002/GraphQLTodo.git
 Install dependencies:
 
 bash
